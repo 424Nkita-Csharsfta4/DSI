@@ -1,0 +1,35 @@
+.card {
+  width: 319px;
+  height: 108px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 150%;
+  color: #30444E;
+  margin-top: 3%;
+}
+
+.product-h2 {
+  text-align: center;
+}
+
+.product-inf {
+  margin-top: 5%;
+  margin-bottom: 10%;
+}
+
+.product-inf-ab {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.about-inf-btn.c {
+  width: 119px;
+  height: 42px;
+  font-weight: 400;
+  font-size: 18px;
+}
+/*# sourceMappingURL=product.css.map */

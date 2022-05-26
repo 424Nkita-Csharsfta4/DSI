@@ -1,0 +1,23 @@
+@media only screen and (max-width: 600px) {
+  header nav {
+    display: none;
+  }
+  #hamburger-icon {
+    display: block;
+  }
+  section .container {
+    display: block;
+  }
+  .about-img {
+    width: 200px;
+  }
+  .about-inf-h1 {
+    font-size: 10px;
+  }
+  .product-inf {
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+}
+/*# sourceMappingURL=mobile.css.map */

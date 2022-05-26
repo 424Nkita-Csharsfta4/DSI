@@ -1,0 +1,12 @@
+.contacts {
+  margin-top: 30%;
+}
+
+.contacts .contact-ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+/*# sourceMappingURL=contact.css.map */
